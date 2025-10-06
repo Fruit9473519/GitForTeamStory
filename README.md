@@ -18,8 +18,7 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 4. พอได้เจอกับผีปุ๊ปก็เลยร่ายรำใส่ผีจนนำเงินคืนมาสำเร็จ 
    ![ผี](GitForTeamStory/img/ghost.png)
 
-5. Someone found a map, but it had no directions.  
-   (TODO: add an image of the map?)  
+5. โจรสลัดอิ่มหนำสำราญกับเงินที่มีจนสุขใจ  
 
 6. หลังจากรีดไถเงินจากเจ้าผีมาจนหมดตัวแล้วโจรสลัดก้ได้มีแผนที่จะอออกนอกโลก.
 
@@ -29,5 +28,6 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
 9. In the forest, the detective discovered… something.  
    (What did they find?)  
+
 
 10. The ending… well, we don’t really have one. Please fix this.
