@@ -11,7 +11,7 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
    ![โจรสลัด](/GitForTeamStory/img/pirate.png)
 
 2. โจรสลัดโกรธมากที่โดนขโมย เลยขี่เรือตามผี เพื่อทวงเงินที่ถูกโมยไป โดยตามไปที่เกาะแห่งหนึ่ง.
-   (Nobody is sure yet.)
+   
 
 3. The scientist shouted something very important but nobody wrote it down.  
 
