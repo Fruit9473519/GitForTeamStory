@@ -13,10 +13,10 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 2. โจรสลัดโกรธมากที่โดนขโมย เลยขี่เรือตามผี เพื่อทวงเงินที่ถูกโมยไป โดยตามไปที่เกาะแห่งหนึ่ง.
    
 
-3. The scientist shouted something very important but nobody wrote it down.  
+3. เมื่อโจรสลัดตามไปเสร็จก็ได้ตามผีชั่วรายที่ขโมยเงินมา 
 
-4. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**…  
-   ![treasure chest](img2.png)
+4. พอได้เจอกับผีปุ๊ปก็เลยร่ายรำใส่ผีจนนำเงินคืนมาสำเร็จ 
+   ![ผี](GitForTeamStory/img/ghost.png)
 
 5. Someone found a map, but it had no directions.  
    (TODO: add an image of the map?)  
