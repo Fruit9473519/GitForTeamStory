@@ -7,10 +7,10 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
 ## Our Wonderful Story
 
-1. Once upon a time, there was a **castle**.  
+1. มีโจรสลัดองค์หนึ่ง รวยมากก แต่แล้ว ผีตนหนึ่งที่จนมากบินมาขโมยเงินแล้ว บินหนีไป.  
    ![castle](img1.png)
 
-2. Then suddenly, a **dragon** appeared… but maybe it was actually a **robot**?  
+2. โจรสลัดดกระมากที่โดนขโมย เลยขี่เรือตามผี เพื่อทวงเงินที่ถูกโมยไป โดยตามไปที่เกาะแห่งหนึ่ง?  
    (Nobody is sure yet.)
 
 3. The scientist shouted something very important but nobody wrote it down.  
