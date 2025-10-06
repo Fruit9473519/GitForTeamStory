@@ -21,11 +21,11 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 5. Someone found a map, but it had no directions.  
    (TODO: add an image of the map?)  
 
-6. “Let’s go to space!” shouted the pirate (although there was no pirate before this).  
+6. หลังจากรีดไถเงินจากเจ้าผีมาจนหมดตัวแล้วโจรสลัดก้ได้มีแผนที่จะอออกนอกโลก.
 
-7. A rocket blasted off, but at the same time the **time machine** broke down.  
+7. เขาได้ไปโขมยยานอวกาศ จาก ประเทศเพื่อนบ้าน แล้วทานสู่อวกาศ.
 
-8. The cat was supposed to talk here, but the line is missing.  
+8. หลังจากใช้เวลาหลายปีในอวกาศ โจรสลัดก็ได้มาไปพบเช้ากับมังกรอวกาศ. 
 
 9. In the forest, the detective discovered… something.  
    (What did they find?)  
