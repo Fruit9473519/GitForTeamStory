@@ -1,15 +1,15 @@
-# Team Story Challenge
-
-This is the starting draft of your team’s story.  
-Your mission: **revise and improve it**, making it coherent, funny, and illustrated with the provided images.
-
----
 # Name and number
 
 1.แทนไท แก้วกับบัว 6809650481
 2.สิทธิกร แซ่เตีย 6809650739
 3.วรพล เจียรศิลานุวัตร 6809650705
 4.ปาณัสม์ มหาโพธิ์ 6809650572
+
+---
+# Team Story Challenge
+
+This is the starting draft of your team’s story.  
+Your mission: **revise and improve it**, making it coherent, funny, and illustrated with the provided images.
 
 ---
 
