@@ -16,7 +16,7 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 3. เมื่อโจรสลัดตามไปเสร็จก็ได้ตามผีชั่วรายที่ขโมยเงินมา 
 
 4. พอได้เจอกับผีปุ๊ปก็เลยร่ายรำใส่ผีจนนำเงินคืนมาสำเร็จ 
-   ![ผี](GitForTeamStory/img/ghost.png)
+   ![ผี](/GitForTeamStory/img/ghost.png)
 
 5. โจรสลัดอิ่มหนำสำราญกับเงินที่มีจนสุขใจ  
 
